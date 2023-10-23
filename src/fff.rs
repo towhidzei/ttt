@@ -1,4 +1,4 @@
 #[no_mangle]
-pub extern "C"fn ooo(){
+pub extern "C" fn ooo(){
     println!("from ttt mod");
 }
